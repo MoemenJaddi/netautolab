@@ -10,3 +10,5 @@ security and compliance. Built step by step from the Teknolabs
 - [ ] Module 3: YANG / RESTCONF / NETCONF
 - [ ] Module 4: NetDevOps / Nornir
 - [ ] Module 5: NetSecDevOps
+
+See vars/ for desired-state files.
