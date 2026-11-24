@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Generated
+reports/*.html
+reports/*.md
+!reports/.gitkeep
+
+# Device config exports (may contain secrets)
+*.rsc
+backups/
