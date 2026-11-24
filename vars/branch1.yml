@@ -4,3 +4,4 @@ mikrotik:
   lan_interface: ether2
   lan_address: 192.168.10.1/24
   dns: 8.8.8.8
+  dhcp_pool: 192.168.10.100-192.168.10.200
